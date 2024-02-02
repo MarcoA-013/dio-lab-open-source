@@ -40,3 +40,7 @@ Nos últimos quatro anos, tenho me dedicado a estudar e aprender novas tecnologi
 tenho estudado sobre metodologias ágeis, como Scrum, Kanban, etc...
 
 Estou super empolgado com a DIO e com a comunidade, espero poder contribuir e aprender muito com todos vocês!
+
+#| Github Stats |
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MarcoA-013&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
